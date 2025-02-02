@@ -1,7 +1,5 @@
 <div class="container">
-    <h1>👋 Hi, I’m <a href="https://github.com/AKASHMUTHAIYA">AKASH MUTHIAYA</a></h1>
     <p>🚀 I developed a <strong>Sports Event Management System</strong> as part of my Full Stack web development journey. This project leverages core technologies such as Java Servlets, JDBC, and SQL integration to provide a seamless platform for managing sports events. It includes functionalities for event management, player registration, audience ticket booking, and more. The aim is to streamline processes and provide an efficient system for event organizers, players, and attendees.</p>
-    
     <p>🔧 <strong>Core Features of the Project:</strong></p>
     <ul>
         <li><strong>Admin Panel:</strong> 
@@ -13,7 +11,6 @@
                 <li><strong>Data Security:</strong> The admin section is secured with an authentication system, ensuring that only authorized users can access and modify the event and player data.</li>
             </ul>
         </li>
-
         <li><strong>Player Registration:</strong> 
             <p>The player registration system allows athletes to register for events with essential details such as:</p>
             <ul>
@@ -22,7 +19,6 @@
                 <li><strong>Validation:</strong> The system performs validation to ensure that all required fields are filled and that the provided information is correct (e.g., age cannot be a negative number).</li>
             </ul>
         </li>
-
         <li><strong>Audience Ticket Booking:</strong>
             <p>This feature allows users (audience members) to book tickets for specific events. The booking flow includes:</p>
             <ul>
@@ -33,7 +29,6 @@
             </ul>
         </li>
     </ul>
-
     <p>🛠️ <strong>Technologies Used in the Project:</strong></p>
     <ul>
         <li><strong>Java Servlets:</strong> Java Servlets form the backbone of the application. They handle HTTP requests, process user inputs, and communicate with the backend logic. Servlets are used for:</li>
@@ -61,7 +56,6 @@
             <li>Enhance the user experience by providing immediate feedback on user actions (e.g., successful registration or ticket booking confirmation).</li>
         </ul>
     </ul>
-
     <p>🗂️ <strong>Database Structure:</strong>  
         The database is designed to handle relationships between players, events, and tickets. Key tables include:
         <ul>
@@ -70,20 +64,16 @@
             <li><strong>Tickets Table:</strong> Keeps track of user ticket bookings, including user information, event selection, and the number of tickets purchased.</li>
         </ul>
     </p>
-
     <p>⚡ <strong>Application Flow:</strong>  
         1. **Admin Login & Management:** Admin logs in, accesses the control panel, and manages event data, including creating or modifying events, players, and ticket information.
         2. **Player Registration:** Players fill in their details and select events for participation, which are stored in the database after validation.
         3. **Audience Ticket Booking:** Audience members select events they wish to attend, choose the number of tickets, and complete the booking process. The system ensures availability and updates the database in real-time.
         4. **Real-Time Data Management:** The database is constantly updated with the latest information regarding event details, player registrations, and ticket bookings, ensuring that no conflicting data is stored.
     </p>
-
     <p>🌱 <strong>Learning & Personal Growth:</strong>  
         Throughout the development of this project, I have deepened my understanding of Full Stack development, especially in areas like database design, back-end logic, and front-end integration. I’ve also strengthened my knowledge of Java-based technologies, including Servlets and JDBC.</p>
-    
     <p>💬 <strong>Collaboration & Contribution:</strong>  
         I’m always eager to collaborate with others on similar projects, particularly those that focus on web technologies, database management, and system integration. If you're interested in working together or discussing any improvements or features for this system, feel free to reach out!</p>
-    
     <p>📫 <strong>Contact Me:</strong>  
         You can contact me via email at <a href="mailto:akashmuthaiya62@gmail.com">akashmuthaiya62@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/akashmuthaiya/">LinkedIn</a>.</p>
 </div>
